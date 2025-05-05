@@ -9,8 +9,8 @@ const RenderAllGroups = () => {
     const [error, setError] = useState(null);
     const [loading, setLoading] = useState(false);
     const [toggling, setToggling] = useState({});
-    const url = "http://localhost:3000";
-
+    const url = import.meta.env.VITE_BACKEND_URL;
+    
     useEffect(() => {
         if (!user) return;
 

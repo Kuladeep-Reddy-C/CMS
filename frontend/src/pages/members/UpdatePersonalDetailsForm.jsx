@@ -3,7 +3,7 @@ import { useUser } from "@clerk/clerk-react";
 import Loader from "../loading/Loader";
 
 const UpdatePersonalDetailsForm = () => {
-  const url = "http://localhost:3000";
+  const url = import.meta.env.VITE_BACKEND_URL;
   const { user } = useUser();
   const [userData, setUserData] = useState(null);
   const [isLoading, setIsLoading] = useState(true);

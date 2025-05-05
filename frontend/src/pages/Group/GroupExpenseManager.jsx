@@ -2,7 +2,7 @@ import { useUser } from '@clerk/clerk-react';
 import React, { useState, useEffect } from 'react';
 
 const GroupExpenseManager = () => {
-  const url = 'http://localhost:3000';
+  const url = import.meta.env.VITE_BACKEND_URL;
   // State for group details
   const [step, setStep] = useState(1);
   const [groupName, setGroupName] = useState('');

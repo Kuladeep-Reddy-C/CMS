@@ -4,7 +4,7 @@ import AcademicCalendar from './AcademicCalendar';
 import PropSender from './PropSender';
 
 const Calendar = () => {
-    const url = 'http://localhost:3000';
+    const url = import.meta.env.VITE_BACKEND_URL;
     const [step1, setStep1] = useState(false);
     const [usersList, setUsersList] = useState([]);
     const { user } = useUser();

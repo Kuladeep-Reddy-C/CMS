@@ -10,7 +10,7 @@ export default function AllStudents() {
   const [userExists, setUserExists] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
   const { user } = useUser();
-  const url = "http://localhost:3000";
+  const url = import.meta.env.VITE_BACKEND_URL;
 
   // Fetch all student profiles and current user's profile
   useEffect(() => {

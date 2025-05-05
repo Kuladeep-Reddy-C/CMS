@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export default function PersonalDetailsForm() {
   const { user } = useUser();
-  const url = "http://localhost:3000";
+  const url = import.meta.env.VITE_BACKEND_URL;
 
   const [form, setForm] = useState({
     fullName: `${user?.firstName || ''} ${user?.lastName || ''}`,

@@ -5,7 +5,7 @@ import AcademicCalendar from './AcademicCalendar';
 export default function PropSender() {
   const [calendarData, setCalendarData] = useState([]);
   const { user } = useUser();
-  const url = 'http://localhost:3000';
+  const url = import.meta.env.VITE_BACKEND_URL;
 
   const fetchUsers = async () => {
     try {
