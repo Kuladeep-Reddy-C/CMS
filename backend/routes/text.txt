@@ -1,0 +1,260 @@
+[
+    {
+        "id": "user_2wUBCkDkpUrZNDMSxCZFMqO2T7f",
+        "passwordEnabled": false,
+        "totpEnabled": false,
+        "backupCodeEnabled": false,
+        "twoFactorEnabled": false,
+        "banned": false,
+        "createdAt": 1746086146175,
+        "updatedAt": 1746086146199,
+        "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18yd1VCQ2lKR0JlZG9jM2Rab3hKNlNvanRLSG0ifQ",
+        "hasImage": true,
+        "primaryEmailAddressId": "idn_2wUB8BBwk6GmaKVdBuaC7IJoznI",
+        "primaryPhoneNumberId": "idn_2wUBAydcxFbs7g7MHSv5bDb9Qqe",
+        "primaryWeb3WalletId": null,
+        "lastSignInAt": 1746086146189,
+        "externalId": null,
+        "username": null,
+        "firstName": "KeerthanReddy",
+        "lastName": "Chappidi",
+        "publicMetadata": {},
+        "privateMetadata": {},
+        "unsafeMetadata": {},
+        "emailAddresses": [
+            {
+                "id": "idn_2wUB8BBwk6GmaKVdBuaC7IJoznI",
+                "emailAddress": "chappidikeerthanreddy@gmail.com",
+                "verification": {
+                    "status": "verified",
+                    "strategy": "from_oauth_google",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": null,
+                    "expireAt": null,
+                    "nonce": null
+                },
+                "linkedTo": [
+                    {
+                        "id": "idn_2wUB85wy8tw2JbRSXENjEMaVdVM",
+                        "type": "oauth_google"
+                    }
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "id": "idn_2wUBAydcxFbs7g7MHSv5bDb9Qqe",
+                "phoneNumber": "+919441942554",
+                "reservedForSecondFactor": false,
+                "defaultSecondFactor": false,
+                "verification": {
+                    "status": "verified",
+                    "strategy": "phone_code",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": 1,
+                    "expireAt": 1746086732758,
+                    "nonce": null
+                },
+                "linkedTo": []
+            }
+        ],
+        "web3Wallets": [],
+        "externalAccounts": [
+            {
+                "id": "idn_2wUB85wy8tw2JbRSXENjEMaVdVM",
+                "provider": "oauth_google",
+                "identificationId": "idn_2wUB85wy8tw2JbRSXENjEMaVdVM",
+                "externalId": "110130822271858904924",
+                "approvedScopes": "email https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid profile",
+                "emailAddress": "chappidikeerthanreddy@gmail.com",
+                "firstName": "KeerthanReddy",
+                "lastName": "Chappidi",
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NMVTYyaUhRdDliM1Ayakx4bGtRTVh2M2p6cTU5TGx6Z1dPdjZLS0VaalBtM0E4X3c9czEwMDAtYyIsInMiOiJCUFJ0ZGxFdUpncGFlcy8raUVSSmxhZGNzeEZEWjJSQVdBc2JJSytSZHVzIn0",
+                "username": null,
+                "publicMetadata": {},
+                "label": null,
+                "verification": {
+                    "status": "verified",
+                    "strategy": "oauth_google",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": null,
+                    "expireAt": 1746086694177,
+                    "nonce": null
+                }
+            }
+        ],
+        "createOrganizationEnabled": true
+    },
+    {
+        "id": "user_2wUAbe6maoHk3iWimSxeXZ7SYgn",
+        "passwordEnabled": false,
+        "totpEnabled": false,
+        "backupCodeEnabled": false,
+        "twoFactorEnabled": false,
+        "banned": false,
+        "createdAt": 1746085851245,
+        "updatedAt": 1746194570592,
+        "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18yd1VBYmVQWjlnajRQeXgyWGJGbjEzNkNGUUkifQ",
+        "hasImage": true,
+        "primaryEmailAddressId": "idn_2wUAWVYxPwo27rn8W9Y1Gu8FzkX",
+        "primaryPhoneNumberId": "idn_2wUAZhh5aXqf2d3iHrGCOaamhIf",
+        "primaryWeb3WalletId": null,
+        "lastSignInAt": 1746194570559,
+        "externalId": null,
+        "username": null,
+        "firstName": "Varun",
+        "lastName": "Bojjireddy",
+        "publicMetadata": {},
+        "privateMetadata": {},
+        "unsafeMetadata": {},
+        "emailAddresses": [
+            {
+                "id": "idn_2wUAWVYxPwo27rn8W9Y1Gu8FzkX",
+                "emailAddress": "varunbojjireddy98@gmail.com",
+                "verification": {
+                    "status": "verified",
+                    "strategy": "from_oauth_google",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": null,
+                    "expireAt": null,
+                    "nonce": null
+                },
+                "linkedTo": [
+                    {
+                        "id": "idn_2wUAWb6AqpiwmzO32Fz61T2YNAR",
+                        "type": "oauth_google"
+                    }
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "id": "idn_2wUAZhh5aXqf2d3iHrGCOaamhIf",
+                "phoneNumber": "+918019133314",
+                "reservedForSecondFactor": false,
+                "defaultSecondFactor": false,
+                "verification": {
+                    "status": "verified",
+                    "strategy": "phone_code",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": 1,
+                    "expireAt": 1746086436251,
+                    "nonce": null
+                },
+                "linkedTo": []
+            }
+        ],
+        "web3Wallets": [],
+        "externalAccounts": [
+            {
+                "id": "idn_2wUAWb6AqpiwmzO32Fz61T2YNAR",
+                "provider": "oauth_google",
+                "identificationId": "idn_2wUAWb6AqpiwmzO32Fz61T2YNAR",
+                "externalId": "103289309033679250123",
+                "approvedScopes": "email https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid profile",
+                "emailAddress": "varunbojjireddy98@gmail.com",
+                "firstName": "Varun",
+                "lastName": "Bojjireddy",
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NLTUFudW80NVZDN0swODdycmxSVmVJYy1FMUpMV0dCR1JQcFhXLTlZWjA1dmJFcmpNVD1zMTAwMC1jIiwicyI6InAvaU5WRGx5T1lBNkMzb3piSW8xQVVEWXNBRFU0OW41SWdvSThBczd0RGMifQ",
+                "username": "",
+                "publicMetadata": {},
+                "label": null,
+                "verification": {
+                    "status": "verified",
+                    "strategy": "oauth_google",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": null,
+                    "expireAt": 1746086402433,
+                    "nonce": null
+                }
+            }
+        ],
+        "createOrganizationEnabled": true
+    },
+    {
+        "id": "user_2wOqfeDEkhGMaW8wlOflzyZgoog",
+        "passwordEnabled": false,
+        "totpEnabled": false,
+        "backupCodeEnabled": false,
+        "twoFactorEnabled": false,
+        "banned": false,
+        "createdAt": 1745923072214,
+        "updatedAt": 1746173362543,
+        "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvdXBsb2FkZWQvaW1nXzJ3VTJJMzRXY3BVaWp4WGJHenZqRXZNMG52NiJ9",
+        "hasImage": true,
+        "primaryEmailAddressId": "idn_2wOqZHOQSv4xysp7PuXzbtvLjcc",
+        "primaryPhoneNumberId": "idn_2wOqdwfoQefJQHkwHdMSbIAQCcy",
+        "primaryWeb3WalletId": null,
+        "lastSignInAt": 1746173362520,
+        "externalId": null,
+        "username": null,
+        "firstName": "C kuladeep reddy",
+        "lastName": null,
+        "publicMetadata": {},
+        "privateMetadata": {},
+        "unsafeMetadata": {},
+        "emailAddresses": [
+            {
+                "id": "idn_2wOqZHOQSv4xysp7PuXzbtvLjcc",
+                "emailAddress": "ckuladeepreddy2006@gmail.com",
+                "verification": {
+                    "status": "verified",
+                    "strategy": "from_oauth_google",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": null,
+                    "expireAt": null,
+                    "nonce": null
+                },
+                "linkedTo": [
+                    {
+                        "id": "idn_2wOqZKpI2wJPN5lmVpoEvPFRM4M",
+                        "type": "oauth_google"
+                    }
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            {
+                "id": "idn_2wOqdwfoQefJQHkwHdMSbIAQCcy",
+                "phoneNumber": "+916305074112",
+                "reservedForSecondFactor": false,
+                "defaultSecondFactor": false,
+                "verification": {
+                    "status": "verified",
+                    "strategy": "phone_code",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": 1,
+                    "expireAt": 1745923659208,
+                    "nonce": null
+                },
+                "linkedTo": []
+            }
+        ],
+        "web3Wallets": [],
+        "externalAccounts": [
+            {
+                "id": "idn_2wOqZKpI2wJPN5lmVpoEvPFRM4M",
+                "provider": "oauth_google",
+                "identificationId": "idn_2wOqZKpI2wJPN5lmVpoEvPFRM4M",
+                "externalId": "114714741204226271921",
+                "approvedScopes": "email https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile openid profile",
+                "emailAddress": "ckuladeepreddy2006@gmail.com",
+                "firstName": "C kuladeep reddy",
+                "lastName": "",
+                "imageUrl": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NMOWdTOHg0cEY4bWNOaU5IYnhheG9HZl9TMEVib2JoR1NzWldMcFBYWEdVeTZqOWcwPXMxMDAwLWMiLCJzIjoiVk1kVVVUVG1XRUF1UW10OSs2aXdkY3A2MHhVZUp1VzROK0JHNEY0RTdCUSJ9",
+                "username": "",
+                "publicMetadata": {},
+                "label": null,
+                "verification": {
+                    "status": "verified",
+                    "strategy": "oauth_google",
+                    "externalVerificationRedirectURL": null,
+                    "attempts": null,
+                    "expireAt": 1745923612758,
+                    "nonce": null
+                }
+            }
+        ],
+        "createOrganizationEnabled": true
+    }
+]
