@@ -85,7 +85,7 @@ Each member profile includes:
 
 ### 4. 🧑‍💻 About Creator Page
 
-A fun little page with an Easter egg feature — click **"Recall Creator"** to summon some surprise info about the dev 😄
+A fun little page with an Easter egg feature — click **"Know about me"** to summon some surprise info about the dev 😄
 
 ---
 
@@ -126,7 +126,6 @@ A fun little page with an Easter egg feature — click **"Recall Creator"** to s
 
 ## 🖼 Suggested Screenshots
 
-> Include these screenshots to showcase your app visually:
 - 🔐 Clerk Login Page![image](https://github.com/user-attachments/assets/b7c34638-e0ab-41c8-b664-8414d7b102fc)
 - ![image](https://github.com/user-attachments/assets/165bbea4-a5da-4c76-9356-1e455187fd5b)
 
@@ -139,7 +138,8 @@ A fun little page with an Easter egg feature — click **"Recall Creator"** to s
 
 - 📆 Calendar with Events![image](https://github.com/user-attachments/assets/dd1b0285-78ea-4518-8d10-6af791bfacd1)
 
-- 👥 Members List![Untitled design (1)](https://github.com/user-attachments/assets/850aebc2-d801-46ce-8070-4af7203ebe1b)
+- 👥 Members List!![image](https://github.com/user-attachments/assets/c5977dfd-8627-4458-8378-fb2b5ad0d924)
+
 
 - 🧑‍💻 About Creator Page -- I just wanted to Prank my friends. so I have added a yt link to this never mind if you clisked it by mistake
 
@@ -151,8 +151,8 @@ Here are some features we're excited to add:
 
 - 🤝 Friend request & social-style connection system
 - 🔒 Private groups (invitation-based creation)
-- 🔔 Real-time notifications (via **Socket.IO**)
-- 📝 Editable profiles & custom avatars
+- 🔔 Real-time notifications
+- 📝 More Features in profiles like custom avatars
 - 📱 Better mobile UI + dark mode 🌙
 
 ---
